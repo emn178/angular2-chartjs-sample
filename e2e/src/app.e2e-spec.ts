@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-chartjs-sample App', () => {
+describe('workspace-project App', () => {
   let page: AppPage;
 
   beforeEach(() => {
